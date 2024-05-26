@@ -23,7 +23,7 @@ The MIPS processor is implemented in Verilog and includes the following modules:
 
 
 ## Simulation
-1. Run the provided testbenchs using your preferred Verilog simulation tool (e.g., ModelSim) to verify the functionality of each sub_module or the testbench of the top_module(`MIPS_TB`) which provide testing through calculating factorial of 7 or calculation the GCD of 120 and 180 through the provided `.hex` files.
+1. Run the provided testbenchs using your preferred Verilog simulation tool (e.g., ModelSim) to verify the functionality of each sub_module or the testbench of the top_module(`MIPS_TB`) which provides testing through calculating factorial of 7 or calculation the GCD of 120 and 180 through the provided `.hex` files.
 you should only change the programme that the instruction memory reads to verify the functionality through any of the programmes.
 
 ## Contributing
